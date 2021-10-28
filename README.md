@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Template utilizando REACT + TAILWIND
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was initially propose by myself, enjoy if you like it !
 
 ## Available Scripts
 
